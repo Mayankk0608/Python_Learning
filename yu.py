@@ -67,8 +67,7 @@ b=int(input("Enter the limit for ur multiplication table: " ))
 for i in range(1,b+1):    
       print(f"{a}x{i} = {a*i}")
 
-
- c=int(iinput("Enter the frist value:  "))
+c=int(input("Enter the frist value:  "))
 d=int(input("Enter the second velue:    ")) 
 
 
